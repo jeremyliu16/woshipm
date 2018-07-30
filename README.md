@@ -1,4 +1,4 @@
-* The project is mainly used for crawling all articles of www.woshipm.com, the professional Chinese Product Manager(PM) media.
+The project is mainly used for crawling all articles of www.woshipm.com, the professional Chinese Product Manager(PM) media.
 
 ## Environment, Architecture
 
